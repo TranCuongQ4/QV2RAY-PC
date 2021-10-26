@@ -1,0 +1,22 @@
+{
+    "000000000000": {
+        "connections": [
+        ],
+        "creationDate": 1609126729,
+        "displayName": "Default Group",
+        "isSubscription": false,
+        "lastUpdatedDate": 1609126729,
+        "routeConfigId": "null",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "",
+            "type": "simple_base64",
+            "updateInterval": 10
+        }
+    }
+}

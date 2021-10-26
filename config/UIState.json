@@ -1,0 +1,20 @@
+{
+    "MainWindow": {
+        "height": 697,
+        "width": 829,
+        "x": 7,
+        "y": 0
+    },
+    "PluginManager": {
+        "height": 557,
+        "width": 876,
+        "x": -23,
+        "y": 70
+    },
+    "PreferenceWindow": {
+        "height": 603,
+        "width": 1061,
+        "x": 164,
+        "y": 58
+    }
+}
